@@ -46,9 +46,17 @@ To get a local copy up and running, follow these steps.
 - [Python](https://www.python.org/downloads/)
 - [Platform-specific SDK/Tools] (e.g., ESP-IDF, Arduino IDE)
 
-### Installation
+### Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Pr3mKum4r/CarbonSense-YantraHack.git
-   cd CarbonSense-YantraHack
+- Start the microcontroller with the CO2 sensor connected.
+- Run the backend server and open the frontend application to monitor real-time data.
+- Adjust alert settings to be notified when the CO2 levels cross safe thresholds.
+- Review insights for recommendations to improve air quality.
+
+### Future Enhancements
+
+- **Additional Sensor Integration**: Include other environmental sensors, such as PM2.5, PM10, and temperature sensors.
+- **Mobile App**: Develop a mobile app for more accessible monitoring.
+- **Enhanced Data Analytics**: Use machine learning to predict air quality trends.
+- **Public API**: Provide an API for external applications to access real-time CO2 data.
+   
