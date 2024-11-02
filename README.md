@@ -10,8 +10,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
-- [Contributors](#contributors)
-- [License](#license)
 
 ---
 
